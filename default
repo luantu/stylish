@@ -1,0 +1,2 @@
+*:not([class*="icon"]):not([class*="code"]):not([class*="blob-code-inner"]):not([class*="diffstat-bar"]):not([class*="text-diff-added"]):not([class*="text-diff-deleted"]):not([class*="mui-amount"]):not([class*="file-info"]):not([class*="chaoshi"]):not([class*="top-nav"]):not([href*="ju.taobao.com"]):not([class*="Icon"]):not([class*="prev"]):not([class*="next"]):not([class*="pay-"]):not([class*="tm-shop-list-"]):not(b):not(ins):not(i):not(s){font-family:"Microsoft YaHei"!important;}
+
